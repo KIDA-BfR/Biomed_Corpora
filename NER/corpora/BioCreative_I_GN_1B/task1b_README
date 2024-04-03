@@ -1,0 +1,32 @@
+Files with noisy training data text files, gene lists, and synonym (gene uid) files:
+
+fly.tar.gz                    
+mouse.tar.gz                  
+yeast.tar.gz
+
+Some additional information about yeast gene names:
+yeast-synonym-info.tar.gz
+
+
+Development test files:
+
+fly_devtest_partial.tar.gz
+mouse_devtest_partial.tar.gz
+yeast_devtest_partial.tar.gz
+
+Evaluation set files:
+
+task1Btesting_gene_lists.tar.gz
+task1Btesting-yeast.zip*
+task1Btesting-fly.zip*
+task1Btesting-mouse.zip*
+
+Scoring script:
+
+task1Bscorer.pl
+
+
+Katrin Fundel has found some errors with the test set, but we are leaving it the way it was since this was used to produce the results reported at the BioCreAtIvE workshop:
+
+http://www.pdg.cnb.uam.es/BioLINK/workshop_BioCreative_04/handout/pdf/Paper_User16.pdf
+
