@@ -1,0 +1,13 @@
+These are the materials provided for the normalization task of BioCreAtIvE 2.  
+
+bc2scoring.py   This is the scoring script, it requires python 2.0
+
+entrezGeneLexicon.list  This is the lexicon linking EntrezGene identifiers with possible gene/protein names
+
+noisyTrainingData  A collection of abstracts with an accompanying noisytrain.genelist file which has the annotations derived from NCBI's links between EntrezGene identifiers and PubMed identifiers
+
+trainingData   These are the abstracts with their titles along with the training.genelist derived from an examination of the abstracts to identify which human genes and proteins were mentioned in the abstracts
+
+test Test data with the bc2GNtest.genelist
+
+AnnotationGuidelines.pdf  This is the very simple annotation manual; we strove for simplicity over details
